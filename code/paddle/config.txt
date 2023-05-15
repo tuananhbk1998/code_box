@@ -1,0 +1,31 @@
+# model load config
+use_gpu 0
+gpu_id  0
+gpu_mem  4000
+cpu_math_library_num_threads  4
+use_mkldnn 0
+
+# det config
+max_side_len  128
+det_db_thresh  0.8
+det_db_box_thresh  0.8
+det_db_unclip_ratio  1.6
+use_polygon_score 1
+det_model_dir  /media/tund/New Volume/2.MyProject/AiCorex86_64/paddle/det
+
+# cls config
+use_angle_cls 0
+cls_model_dir  ./inference/ch_ppocr_mobile_v2.0_cls_infer/
+cls_thresh  0.9
+
+# rec config
+rec_model_dir  /media/tund/New Volume/2.MyProject/AiCorex86_64/paddle/rec
+char_list_file  /media/tund/New Volume/2.MyProject/AiCorex86_64/paddle/rec/anpr.txt
+
+# show the detection results
+visualize 1
+
+# use_tensorrt
+use_tensorrt 0
+use_fp16   0
+

@@ -1,0 +1,10 @@
+paper
+carton
+plastic
+nylon
+styrofoam
+metal
+glass
+wood
+concrete
+unknown

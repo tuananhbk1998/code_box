@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32d7a4b1-72b1-4c69-a233-a1923e36dbc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AiCore/AiTypeData.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/AiTypeData.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/ObjectClassifier.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/ObjectClassifier.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/ObjectDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/ObjectDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/ObjectDetector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/ObjectDetector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/mnn/MnnDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/mnn/MnnDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/mnn/MnnDetector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/mnn/MnnDetector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/ncnn/NcnnDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/ncnn/NcnnDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/ncnn/NcnnDetector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/ncnn/NcnnDetector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/SnpeCommLib.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/SnpeCommLib.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/SnpeCommLib.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/SnpeCommLib.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/Util.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/Util.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/Util.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/Util.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/classifier/SnpeClassifier.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/classifier/SnpeClassifier.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/classifier/SnpeClassifier.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/classifier/SnpeClassifier.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeDetector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeDetector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeMobilenetSSD.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeMobilenetSSD.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeMobilenetSSD.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeMobilenetSSD.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeRetinanet.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/snpe/detector/SnpeRetinanet.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tflite/TfLiteRuntime.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/tflite/TfLiteRuntime.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tflite/TfLiteRuntime.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/tflite/TfLiteRuntime.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tflite/TfliteDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/tflite/TfliteDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tflite/TfliteDetector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/tflite/TfliteDetector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/ObjectTracking.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/ObjectTracking.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/RoadLine.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/RoadLine.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/Ctracker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/Ctracker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/HungarianAlg/HungarianAlg.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/HungarianAlg/HungarianAlg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/Kalman.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/Kalman.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ShortPathCalculator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ShortPathCalculator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/VOTTracker.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/common/defines.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/common/nms.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/common/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/dat/dat_tracker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/dat/dat_tracker.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/GTL.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/algorithm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/bellman_ford.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/bfs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/biconnectivity.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/bid_dijkstra.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/bin_heap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/components.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/debug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/dfs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/dijkstra.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/edge.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/edge_data.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/edge_map.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/embedding.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/fm_partition.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/gml_parser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/gml_scanner.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/graph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/maxflow_ff.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/maxflow_pp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/maxflow_sap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/min_tree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/ne_map.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/node_data.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/node_map.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/planarity.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/pq_node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/pq_tree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/ratio_cut_partition.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/st_number.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/symlist.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/topsort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/version.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/include/GTL/version.h.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/bellman_ford.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/bfs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/biconnectivity.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/bid_dijkstra.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/components.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/debug.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/dfs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/dijkstra.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/edge.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/embedding.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/fm_partition.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/gml_parser.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/gml_scanner.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/graph.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/maxflow_ff.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/maxflow_pp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/maxflow_sap.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/min_tree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/node.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/planarity.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/pq_node.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/pq_tree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/ratio_cut_partition.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/st_number.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/GTL/src/topsort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/components.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/fheap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/fheap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/gdefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/gml2dot.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/gml2nestedsql.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/gport.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/gport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/mincut.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/mincut.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/mwbmatching.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/mwbmatching.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/mygraph.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/mygraph.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/mytree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/mytree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/rings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/script.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/tokenise.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/graph/tokenise.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/correlation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/correlation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/fft_functions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/fft_functions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/fhog.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/fhog.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/hann.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/hann.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/ldes_tracker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/ldes/ldes_tracker.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/staple/fhog.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/staple/fhog.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/staple/sse.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/staple/staple_tracker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/staple/staple_tracker.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/track.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/tracker/libtracker/track.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/utils/ImageProcessor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/utils/ImageProcessor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/utils/ImageProcessor.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/utils/ImageProcessor.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiCore/utils/LoadLabel.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiCore/utils/LoadLabel.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/AnprDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/Anpr/AnprDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/AnprDetector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/Anpr/AnprDetector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/AnprRecognizer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/Anpr/AnprRecognizer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/AnprRecognizer.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/Anpr/AnprRecognizer.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/AnprYoloText.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/AnprYoloText.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/VehicleDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/Anpr/VehicleDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/VehicleDetector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/Anpr/VehicleDetector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/ocr/TextDetection.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/ocr/TextDetection.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/ocr/TextRecognizer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/ocr/TextRecognizer.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/ocr/ocr_db_crnn.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/Anpr/ocr/ocr_db_crnn.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/Anpr/ocr/ocr_db_crnn.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/Anpr/ocr/ocr_db_crnn.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/CoreObject/CrosslineDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/CoreObject/CrosslineDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/CoreObject/CrosslineDetector.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/CoreObject/CrosslineDetector.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/CoreObject/CrowdDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/CoreObject/CrowdDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AiEngines/CoreObject/Detector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/AiEngines/CoreObject/Detector.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FKZeasXvkt0DdSzh1qRDmsk8Dx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32d7a4b1-72b1-4c69-a233-a1923e36dbc2" name="Changes" comment="" />
+      <created>1664242832685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664242832685</updated>
+    </task>
+    <servers />
+  </component>
+</project>
